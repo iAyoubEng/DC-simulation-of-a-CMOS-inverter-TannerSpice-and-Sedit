@@ -1,4 +1,4 @@
-# CMOS Inverter — Schematic, Netlist & DC Simulation
+# CMOS Inverter design — Schematic, Netlist & DC Simulation
 
 A static CMOS inverter (NOT gate) designed and simulated in **Tanner EDA S-Edit** (schematic/symbol capture + netlist generation) and **T-Spice / W-Edit** (SPICE simulation + waveform viewing).
 
