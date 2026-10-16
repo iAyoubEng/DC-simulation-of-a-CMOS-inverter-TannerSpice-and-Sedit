@@ -1,0 +1,1 @@
+# DC-simulation-of-a-CMOS-inverter-TannerSpice-and-Sedit
